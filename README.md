@@ -3,12 +3,8 @@
 
 	    code .
 
-3.  Provide folders inside this project: templates and static
-
-	    mkdir templates
-then
-
-	mkdir static
+3.  Provide folders inside this project: templates and static `mkdir templates`
+4. then `mkdir static`
 
 5.  Create file main.py. Type this
 
