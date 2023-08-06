@@ -53,6 +53,9 @@
 11.  Open new terminal in visual studio code, then install the following package in python (pip)
 
 		    pip install flask
+		then
+	
+			pip install db-sqlite3
 
 12.  Run the program, by typing this code
 
